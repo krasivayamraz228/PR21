@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #bc532f;
+    background-attachment: fixed;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+
+.logo-holder{
+    padding-top: 8px;
+    float:left; 
+    margin-right:10px;
+    transition: all .09s ease-out; /* наводя на картинку, она увеличивается  */
+}
+
+.logo-holder :hover{
+    transform: scale(1.05);
+}
+
+header{
+    background: #ed9d6c;
+    height: 110px;
+    font-size: 0.8em;
+    margin-left: 0px;
+    margin-right: 0px;
+    min-width: 900px;
+
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 20px;
+    padding-top: 46px;
+    padding-right: 100px;
+    text-align: right; /* Выравнивание по правому краю */
+}
+
+a{
+    font-size: 20px;
+    padding: 20px;
+    color: #0c0c0c;
+    text-decoration: none; /* Обычный текст*/
+
+}
+
+a:hover{
+    color: #fefefe;
+    text-decoration: none;
+
+}
+
+li{
+    display: inline;
+}
+
+h1{
+    padding: 22px 0 0 0;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.image-container{ 
+    text-align: center; 
+    display: inline-block;
+    margin: 25px;
+    justify-content: center;
+}
+
+.image-container p {
+    text-align: center;
+    margin: 10px 0;
+    font-size: 25px;
+
+}
+
+
+
