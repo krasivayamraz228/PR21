@@ -71,6 +71,10 @@ h1{
     justify-content: center;
 }
 
+.image-container{ 
+    display: inline-block;
+}
+
 .image-container p {
     text-align: center;
     margin: 10px 0;
