@@ -79,9 +79,10 @@ h1{
 }
 
 table {
-     table-align: center
+     tb-align: center;
 }
 
 .text-container {
+    font-size: 25px;
     margin: 25px;
     padding-top: 30px;
