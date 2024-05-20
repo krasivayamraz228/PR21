@@ -71,7 +71,7 @@ h1{
     justify-content: center;
 }
 
-.image-container{ 
+.image-container: hover{ 
     display: inline-block;
 }
 
