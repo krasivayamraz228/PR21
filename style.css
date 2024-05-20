@@ -65,6 +65,7 @@ h1{
 }
 
 .image-container{ 
+    table-align: center
     text-align: center; 
     display: inline-block;
     margin: 25px;
