@@ -94,3 +94,7 @@ table {
 .concert_conteiner{
     margin: 50px;
 }
+
+.concert_conteiner:hover{
+    transform: scale(1.05);
+}
