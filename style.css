@@ -69,6 +69,10 @@ h1{
     display: inline-block;
     margin: 25px;
     justify-content: center;
+    tb-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .image-container p {
@@ -78,21 +82,10 @@ h1{
 
 }
 
-table {
-    tb-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .text-container {
     font-size: 25px;
     margin: 25px;
     padding-top: 30px;
-}
-
-.concert_conteiner{
-    margin: 50px;
 }
 
 .concert_conteiner:hover{
