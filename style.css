@@ -70,9 +70,6 @@ h1{
     margin: 25px;
     justify-content: center;
     tb-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .image-container p {
